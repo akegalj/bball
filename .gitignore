@@ -1,3 +1,6 @@
 *.js
 elm-stuff/
 *.html
+.cabal-sandbox/
+dist/
+cabal.sandbox.config
